@@ -1,6 +1,6 @@
 # intenship_task1
 
-This repository use MNIST digits dataset to demonstrate what I learned about projects organization and sourcecode management.
+This repository uses MNIST digits dataset to demonstrate what I learned about projects organization and sourcecode management.
 
 # Installation
 ```
