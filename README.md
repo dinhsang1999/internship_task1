@@ -5,7 +5,7 @@ This repository uses MNIST digits dataset to demonstrate what I learned about pr
 # Installation
 ```
 conda create -n intenship_env python=3.6
-conda activate intenship
+conda activate intenship_env
 ```
 
 # Install dependencies:
